@@ -1,3 +1,3 @@
 package com.example.jettrivia.model
 
-class Questions : ArrayList<QuestionsItem>()
+class Questions : ArrayList<QuestionItem>()
