@@ -1,6 +1,6 @@
 # Jet Trivia App
 
-The Jet Trivia App is a simple Android application that allows users to test their knowledge about jets through a trivia game. This README provides information on how to set up and use the app.
+The Jet Trivia App is a simple Android application that allows users to test their knowledge through a trivia game. This README provides information on how to set up and use the app.
 ___
 <br/>
 <img src="images/shot1.png" alt="Alt Text" width="400" height="800">
